@@ -1,4 +1,4 @@
-# CarParking
+# Flight ticket Reservation
 
 ## Project Walkthrough
 ![1walkthrough](video/project.gif).
